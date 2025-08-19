@@ -7,14 +7,13 @@ import { getAnalytics } from "firebase/analytics";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyBb8tKHIA67DM9t552t8q-plK4ketrA3lg",
-  authDomain: "zowibranding.firebaseapp.com",
-  databaseURL: "https://zowibranding-default-rtdb.firebaseio.com",
-  projectId: "zowibranding",
-  storageBucket: "zowibranding.firebasestorage.app",
-  messagingSenderId: "43545840966",
-  appId: "1:43545840966:web:35f96642aff40288a1a947",
-  measurementId: "G-PYM4P96BXB"
+  apiKey: "AIzaSyDIi60tD6PixK5AruSfMzU3CKg0ZSCE_vI",
+  authDomain: "kalkidan-63e99.firebaseapp.com",
+  projectId: "kalkidan-63e99",
+  storageBucket: "kalkidan-63e99.firebasestorage.app",
+  messagingSenderId: "410466327167",
+  appId: "1:410466327167:web:ada4efeb2c6ee3c0f3fd4a",
+  measurementId: "G-YPHZYL4RVG"
 };
 
 // Initialize Firebase
